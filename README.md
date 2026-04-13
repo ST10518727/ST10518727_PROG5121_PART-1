@@ -4,5 +4,13 @@
 
 Name: Asanda Ngani 
 Student Number: ST10518727
-Module code: PROG5121 
+Module Code: PROG5121 
 ----
+##Project Information:  
+
+###Three java classes:
+1.Login.java
+2.MainApp.java
+3.LoginTest.java 
+---
+##Features
