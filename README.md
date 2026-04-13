@@ -1,2 +1,8 @@
-# ST10518727_PROG5121_PART-1
-Part 1 repository 
+#Chat Application Part 1
+
+##Student Information:
+
+Name: Asanda Ngani 
+Student Number: ST10518727
+Module code: PROG5121 
+----
